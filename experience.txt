@@ -1,0 +1,1 @@
+Query considers synonyms differently which can be optimized.
